@@ -1,0 +1,14 @@
+.logo {
+  height: 6rem;
+  padding: 1rem;
+}
+.card {
+  padding: 2rem;
+  background: #f9f9f9;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+.read-the-docs {
+  margin-top: 1rem;
+  color: #888;
+}
